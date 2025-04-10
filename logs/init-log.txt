@@ -1,0 +1,3 @@
+terraform init
+Initializing the backend...
+Terraform has been successfully initialized!
